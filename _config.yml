@@ -1,0 +1,12 @@
+basic options
+title: the first test here
+author: nstflecher
+email: personalnst@gmail.com
+description: A wonderful site
+twitter_username: kjsksajd
+github_username: Jekyll
+
+
+# Build settings
+markdown: kramdown
+theme: minima
