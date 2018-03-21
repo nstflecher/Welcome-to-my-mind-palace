@@ -1,1 +1,1 @@
-# newblog-for-lee
+# Way to the new world.
