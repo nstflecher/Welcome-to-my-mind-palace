@@ -10,4 +10,4 @@ Contact me if u have any new ideas about it.
 
 ## other thoughts
 
-here is my personal email: personalnst@gmail.com
+here is my personal email: leefenwei@gmail.com
