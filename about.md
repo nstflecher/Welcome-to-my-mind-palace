@@ -3,13 +3,11 @@ layout: page
 title: About
 ---
 
-This is an about page about this awesome site.
-Hope you love it!
+This is an about page about my first websites.
+I Hope you love it!
 
-Reasons:
-- its great.
-- its a test.
+Contact me if u have any new ideas about it.
 
 ## other thoughts
 
-This is great.
+here is my personal email: personalnst@gmail.com
