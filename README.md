@@ -5,7 +5,7 @@ This is my first blog with Github pages, I just want to make it formal and easy 
 still left blank
 
 ## about me
-A Student who is right now study in TU Braunschweig. 
+A Student who is right now studying in TU Braunschweig. 
 feel really passionate about building the website online in order to write some really cool stuffs.
 
 ## copyright agreement
